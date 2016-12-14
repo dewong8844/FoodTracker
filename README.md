@@ -1,7 +1,7 @@
 # FoodTracker
 
 This is code from the Apple iOS developer tutorial [Start Developing iOS Apps (Swift)]
-(https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1),
+(https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/),
 it creates a simple working app that keeps track of a list of food.
 
 Steps for adding the code to github:
